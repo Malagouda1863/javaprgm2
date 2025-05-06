@@ -1,4 +1,3 @@
-package javaprgm1;
 
 public class DivisionOperations {
     public static void main(String[] args) {
