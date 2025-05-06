@@ -8,5 +8,5 @@ public class BasicOperations {
         System.out.println("Addition: " + sum);
         System.out.println("Substraction: " + diff);
         System.out.println("Multiplication: " + prod);
-}
+ }
 }
